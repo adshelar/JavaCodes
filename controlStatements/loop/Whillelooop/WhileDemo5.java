@@ -1,3 +1,4 @@
+package Whillelooop;
 //print divisible of 5 till N
 
 class WhileDemo5{
